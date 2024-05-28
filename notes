@@ -1,0 +1,78 @@
+1.elements in html:
+<title>.....</title>   //title tag
+
+<h1>......</h1>        //heading tag
+
+<p>...</p>             //paragraph tag
+
+<button>.....</button>   //button tag
+
+<a>.....</a>             //link tag
+
+<img>...</img>          //image tag
+
+<ul> <li> </li> </ul>    //list tag
+
+2.divisions and elements in html:a group of elements in one section on html it is known as div tag
+
+<div>....</div> ////----division tag
+
+          container
+    <div> 
+        <title>.....</title>   //title tag
+
+        <h1>......</h1>        //heading tag
+
+        <p>...</p>             //paragraph tag
+
+        <button>.....</button>   //button tag
+    </div>
+
+3.attributes in html: (href,src,alt,lang,class,id,height,width,style)
+
+eg:
+<div class="mango">
+ text comes here
+</div>
+
+another eg:
+
+<div id="mango">
+   <h1 style="color:red">apple is red</h1>  //h1 attributes on style
+
+   <img src="praveen.png" alt="photo">        //img attributes src,alt
+
+   <a href="http://google.com">advance</a>    //link attributes href
+
+</div>
+
+4.list are two types in html:
+
+..list tag//<li></li>
+..ordered list//<ol></ol>
+..unordered list //<ul></ul>
+
+5.how to create a table?
+
+.<table>..</table> //create a table
+.<thead>..</thead> //create table header
+.<tr>..</tr>       //create row
+.<th>..</th>       //write heading content
+.<tbody>..</tbody>   //create a table body
+.<td>..</td>      //write table body data
+
+6.input tags:
+
+.input are self closing
+ basic syntax: <input type="text"
+
+.<input type="text"> ///input type are text----(abc)
+.<input type="password"> ///input type are password----(_1@23)
+.<input type="email">  ///input type are email----(@gmail.com)
+.<input type="number">  ///input type are number----(123)
+.<input type="checkbox">  ///input type are checkbox----(right,wrong)
+.<input type="radio">    ///input type are radio----(yes,no)
+.<input type="hidden">    ///input type are hidden----(.)
+.<input type="button">    ///input type are button----()
+.<input type="color">    ///input type are color----(rbg)
+.<input type="file">      ///input type are file----(..)
